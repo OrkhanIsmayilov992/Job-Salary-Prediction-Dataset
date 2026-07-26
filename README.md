@@ -1,4 +1,4 @@
-https://www.kaggle.com/code/orxansmaylov92/job-salary-prediction-dataset-last
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/orxansmaylov92/Job-Salary-Prediction-Dataset/blob/main/notebooks/your_notebook.ipynb)
 
 # Job-Salary-Prediction-Dataset
 Maaş proqnozu - Data Science layihəsi | XGBoost, Random Forest
