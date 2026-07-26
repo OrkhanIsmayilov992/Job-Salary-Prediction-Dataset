@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/orxansmaylov92/Job-Salary-Prediction-Dataset/blob/main/notebooks/your_notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/orxansmaylov92/Job-Salary-Prediction-Dataset/blob/main/Job%20Salary%20Prediction%20Dataset.ipynb)
 
 # Job-Salary-Prediction-Dataset
 Maaş proqnozu - Data Science layihəsi | XGBoost, Random Forest
